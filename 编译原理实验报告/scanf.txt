@@ -1,0 +1,8 @@
+#include< stdio.h>
+int main()
+{
+    int a1 = 101.5;
+    int a2 = 3.2;
+    while(a1 == 1 && a2)
+    printf(a1);
+}
